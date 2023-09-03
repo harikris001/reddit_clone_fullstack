@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "925634881092",
+    "project_id": "reddit-clone-fullstack",
+    "storage_bucket": "reddit-clone-fullstack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925634881092:android:d01b2d881602dae0857e11",
+        "android_client_info": {
+          "package_name": "com.harikris.dev.reddit_clone_fullstack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925634881092-ks9vp1rrl1brv4qruai0rcl1d3nouras.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harikris.dev.reddit_clone_fullstack",
+            "certificate_hash": "ee47974154a5be8d55b7d0899a15112b29b45cae"
+          }
+        },
+        {
+          "client_id": "925634881092-m75jugsm63ki0fe3cdce1a2k8em818ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjWB4oM9ddX3kJU1xCxy8BXBF8KjLouLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925634881092-m75jugsm63ki0fe3cdce1a2k8em818ps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925634881092-b8neq3ot893t4gumibdidhb6de3td0m1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harikris.dev.redditCloneFullstack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
